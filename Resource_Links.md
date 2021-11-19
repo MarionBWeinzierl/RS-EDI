@@ -1,5 +1,6 @@
 # Recruitment
 
+**Gathered suggestions** [Holger's doc](https://docs.google.com/document/d/1-WIN_h2j-loTfbRvBJy1dHbmH8jJbFkfBQtKcI7Kwvg/edit?usp=sharing)
 
 # EDI in Research Software and Academia
 
