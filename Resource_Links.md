@@ -15,3 +15,5 @@
 # EDI Strategy and Best Practices in General
 
 **What Works: Evidence-Based Ideas to Increase Diversity, Equity, and Inclusion in the Workplace** [report](https://www.umass.edu/employmentequity/what-works-evidence-based-ideas-increase-diversity-equity-and-inclusion-workplace)
+
+**Inclusive language in community building** [CSCCE STEM community management glossary](https://zenodo.org/record/5718783)
