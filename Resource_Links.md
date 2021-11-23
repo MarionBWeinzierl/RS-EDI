@@ -12,3 +12,6 @@
 
 **Gender representation cues labels of hard and soft sciences** [paper](https://www.sciencedirect.com/science/article/pii/S0022103121001372)
 
+# EDI Strategy and Best Practices in General
+
+**What Works: Evidence-Based Ideas to Increase Diversity, Equity, and Inclusion in the Workplace** [report](https://www.umass.edu/employmentequity/what-works-evidence-based-ideas-increase-diversity-equity-and-inclusion-workplace)
