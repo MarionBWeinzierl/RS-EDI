@@ -12,7 +12,7 @@
 
 **Gender representation cues labels of hard and soft sciences** [paper](https://www.sciencedirect.com/science/article/pii/S0022103121001372)
 
-**Evidence for Teaching Practices that Broaden Participation for Women in Computing**[paper](https://dl.acm.org/doi/10.1145/3502870.3506568)
+**Evidence for Teaching Practices that Broaden Participation for Women in Computing** [paper](https://dl.acm.org/doi/10.1145/3502870.3506568)
 
 # EDI Strategy and Best Practices in General
 
