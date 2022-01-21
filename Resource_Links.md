@@ -14,9 +14,9 @@
 
 **Evidence for Teaching Practices that Broaden Participation for Women in Computing** [paper](https://dl.acm.org/doi/10.1145/3502870.3506568)
 
-**Improving Diversity and Inclusion in Senior Leadership: A workshop to help recruit diverse senior leaders [presentation and workshop](https://www.practicaldiversity.org/2021/11/05/resource-improving-diversity-and-inclusion-in-senior-leadership-a-workshop-to-help-recruit-diverse-senior-leaders-2/)
+**Improving Diversity and Inclusion in Senior Leadership: A workshop to help recruit diverse senior leaders** [presentation and workshop](https://www.practicaldiversity.org/2021/11/05/resource-improving-diversity-and-inclusion-in-senior-leadership-a-workshop-to-help-recruit-diverse-senior-leaders-2/)
 
-**15 minute introduction to Diversity and Inclusion for workplaces [presentation](https://www.practicaldiversity.org/2021/10/15/new-presentation-15-minute-introduction-to-diversity-and-inclusion-for-workplaces/)
+**15 minute introduction to Diversity and Inclusion for workplaces** [presentation](https://www.practicaldiversity.org/2021/10/15/new-presentation-15-minute-introduction-to-diversity-and-inclusion-for-workplaces/)
 
 # EDI Strategy and Best Practices in General
 
