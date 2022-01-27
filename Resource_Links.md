@@ -24,4 +24,4 @@
 
 **Inclusive language in community building** [CSCCE STEM community management glossary](https://zenodo.org/record/5718783)
 
-**Inclusive language guide**[website](https://itconnect.uw.edu/work/inclusive-language-guide/)
+**Inclusive language guide** [website](https://itconnect.uw.edu/work/inclusive-language-guide/)
