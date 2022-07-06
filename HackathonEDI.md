@@ -3,7 +3,7 @@
 
 ## What is this about and why do we need this?
 
-Goeal: Engage and motivate students from diverse backgrounds to get involved with HPC/Scientific Computing, e.g. via hackathons and student cluster competitions. In the long run this aims to enlarge and diversify the pool of applicants/professionals in HPC, which is currently too small and homogeneous.
+Goal: Engage and motivate students from diverse backgrounds to get involved with HPC/Scientific Computing, e.g. via hackathons and student cluster competitions. In the long run this aims to enlarge and diversify the pool of applicants/professionals in HPC, which is currently too small and homogeneous.
 Help especially the underrepresented groups to become confident about their skill set and to see it as a great educational and networking opportunity to learn new things together. In this context, we consider shifting the focus away from the competitive character and towards a more educational perspective. Foster team spirit and shared identity between students from diverse backgrounds via shared interests. Break down barriers between practitioners and students. Allow for the demystifying of complex processes, including technical and scholarship. 
 
 ## What can organisers do?
