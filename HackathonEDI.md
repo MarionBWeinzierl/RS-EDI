@@ -199,7 +199,8 @@ E.g. <a href="https://wehi-researchcomputing.github.io/students">https://wehi-re
 
 ## Other Resources
 
-[https://hackathon-planning-kit.org/](https://hackathon-planning-kit.org/)
+[Hackathon Planning Kit](https://hackathon-planning-kit.org/)
 
-[https://www.reprohack.org/resources](https://www.reprohack.org/resources)
+[ReproHack Resources](https://www.reprohack.org/resources)
 
+[The Carpentries Toolkit of IDEAS](https://zenodo.org/record/7041935)
