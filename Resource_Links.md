@@ -18,6 +18,8 @@
 
 **15 minute introduction to Diversity and Inclusion for workplaces** [presentation](https://www.practicaldiversity.org/2021/10/15/new-presentation-15-minute-introduction-to-diversity-and-inclusion-for-workplaces/)
 
+**The Carpentries Toolkit of IDEAS** [zenodo link](https://zenodo.org/record/7041935#.YxFqAOxBxhH)
+
 # EDI Strategy and Best Practices in General
 
 **What Works: Evidence-Based Ideas to Increase Diversity, Equity, and Inclusion in the Workplace** [report](https://www.umass.edu/employmentequity/what-works-evidence-based-ideas-increase-diversity-equity-and-inclusion-workplace)
